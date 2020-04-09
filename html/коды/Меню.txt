@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="ru">
+ <head>
+  <meta charset="utf-8" />
+<!-- Заголовок сайта -->
+   <title> Николайчук </title>
+ </head>
+ <body background="images/Рыбафон.jpg"> <!-- Установка фона странички -->
+<!-- Текст в виде заголовка на странице-->
+    <p align="center"> <font size="5"> Здравствуйте. 
+	<font color="yellow"><u>Я Николайчук Наталья</u></font>. <br>
+	Обучаюсь В СевГУ, ИРИБ,	кафедра "Физика".<br>
+	Увлекаюсь <b><i>ихтиологией</i></b>.<br></p>
+	<img align="left" src="images/рыб.png" width="30%">
+	<img align="right" src="images/рыб.png" width="30%">
+    Подробная информация здесь:  
+	<a href="О себе.html">Обо мне</a> <br>
+</body>
+</html>

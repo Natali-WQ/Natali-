@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ru">
+ <head>
+  <meta charset="utf-8" />
+  <title> Николайчук </title>
+ </head>
+ <body background="images/лучфон.jpg">
+         <h2 align="center"> Немного обо мне </h2>
+         <p align="center"> <a href="Меню.html">Меню</a></p>
+	<table align="center" border="1" width="50%"> 
+	  <td align="center" bgcolor="blue" colspan="2"><b>Общие сведения</b></td>
+	 <tr>
+         <td> ФИО </td>
+         <td> Наталья Александровна Николайчук </td>
+     </tr>
+     <tr>
+         <td> Дата рождения </td>
+         <td> 26.04.2000 </td>
+     </tr>
+	  <tr>
+         <td> Родной город </td>
+         <td> Севастополь </td>
+     </tr>
+	 
+     <tr>
+         <td> Любимые игры </td>
+         <td> World of Warcraft <img align="left" src="images/Wow.jpg" width="5%"></td>
+     </tr>
+	</table>
+ </body>
+</html>
